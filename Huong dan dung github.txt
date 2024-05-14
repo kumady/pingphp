@@ -4,3 +4,4 @@
 - git commit -m "nội dung commit"  (commit nội dung code, nên để ngắn gọn nha)
 - git push origin master (master là tên nhanh, nếu các bạn ở nhánh khách thì thay master đi nha, lệnh này để đẩy code lên github)
 - cập nhật thì chỉ dùng 3 lệnh cuối
+- Git checkout <tên nhánh muốn đồng bộ>
