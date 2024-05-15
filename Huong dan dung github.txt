@@ -6,3 +6,11 @@
 - cập nhật thì chỉ dùng 3 lệnh cuối
 - Git checkout <tên nhánh muốn đồng bộ>
 - tao folder mkdir ./newproject
+- đẩy backup lên
+ + clone mới tạo về git clone <link?
+ + git status (màu đỏ là chưa ddc add)
+ + git add . (add tất cả file)
+ + git status (chuyển hết về màu xanh lá là đc)
+ + git commit -m "<miêu tả>"
+ + git push origin main(hoặc master)
+
